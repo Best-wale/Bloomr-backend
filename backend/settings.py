@@ -18,7 +18,7 @@ SECRET_KEY = 'django-insecure-+2lcqg994w5y2szity07_7$r7lg3y7m&p$1x+55xlk8$1gyb5m
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['https://bloomr-api.onrender.com']
+ALLOWED_HOSTS = ['bloomr-api.onrender.com']
 
 
 # Application definition
